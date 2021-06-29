@@ -14,8 +14,8 @@
     "@actions/artifact": "^0.5.0",
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
-    "@lhci/cli": "^0.7.0",
-    "@lhci/utils": "^0.7.0",
+    "@lhci/cli": "^0.8.0",
+    "@lhci/utils": "^0.8.0",
     "is-windows": "^1.0.2",
     "lodash": "^4.17.20"
   },
